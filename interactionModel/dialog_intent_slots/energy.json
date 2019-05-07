@@ -1,0 +1,9 @@
+{
+                          "name": "energy",
+                          "type": "energyType",
+                          "confirmationRequired": false,
+                          "elicitationRequired": true,
+                          "prompts": {
+                              "elicitation": "Elicit.Intent-PetMatchIntent.IntentSlot-energy"
+                          }
+                      }

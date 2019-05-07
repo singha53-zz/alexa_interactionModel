@@ -1,0 +1,34 @@
+{
+                  "name": "temperamentType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "watch",
+                              "synonyms": [
+                                  "adult",
+                                  "barks at people"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "guard",
+                              "synonyms": [
+                                  "to protect me",
+                                  "protective"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "family",
+                              "synonyms": [
+                                  "is kid friendly",
+                                  "good with kids",
+                                  "family friends",
+                                  "gentle with kids"
+                              ]
+                          }
+                      }
+                  ]
+              }

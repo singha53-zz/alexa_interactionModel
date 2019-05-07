@@ -1,0 +1,7 @@
+{
+                          "name": "location",
+                          "type": "locationType",
+                          "confirmationRequired": false,
+                          "elicitationRequired": false,
+                          "prompts": {}
+                      }

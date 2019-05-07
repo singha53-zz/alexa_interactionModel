@@ -1,0 +1,13 @@
+{
+              "id": "Elicit.Intent-PetMatchIntent.IntentSlot-temperament",
+              "variations": [
+                  {
+                      "type": "PlainText",
+                      "value": "Are you looking for more of a family dog or a guard dog?"
+                  },
+                  {
+                      "type": "PlainText",
+                      "value": "Would you prefer a dog to hang out with kids or to protect you?"
+                  }
+              ]
+          }

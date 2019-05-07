@@ -1,0 +1,7 @@
+{
+                          "name": "I_Want",
+                          "type": "IWantType",
+                          "confirmationRequired": false,
+                          "elicitationRequired": false,
+                          "prompts": {}
+                      }

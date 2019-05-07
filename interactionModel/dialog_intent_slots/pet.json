@@ -1,0 +1,7 @@
+{
+                          "name": "pet",
+                          "type": "AMAZON.Animal",
+                          "confirmationRequired": false,
+                          "elicitationRequired": false,
+                          "prompts": {}
+                      }

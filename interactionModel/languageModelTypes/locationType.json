@@ -1,0 +1,25 @@
+{
+                  "name": "locationType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "beach"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "mountains"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "dog park"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "trail"
+                          }
+                      }
+                  ]
+              }

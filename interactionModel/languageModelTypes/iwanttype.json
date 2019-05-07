@@ -1,0 +1,45 @@
+{
+                  "name": "IWantType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "my favorite is"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "I prefer"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "let's find"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "we like"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "we would like"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "how about"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "I want"
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "I like"
+                          }
+                      }
+                  ]
+              }

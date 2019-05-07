@@ -1,0 +1,9 @@
+{
+                          "name": "size",
+                          "type": "sizeType",
+                          "confirmationRequired": false,
+                          "elicitationRequired": true,
+                          "prompts": {
+                              "elicitation": "Elicit.Intent-PetMatchIntent.IntentSlot-size"
+                          }
+                      }

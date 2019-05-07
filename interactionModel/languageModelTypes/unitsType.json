@@ -1,0 +1,27 @@
+{
+                  "name": "unitsType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "height",
+                              "synonyms": [
+                                  "inches",
+                                  "cm",
+                                  "centimeters",
+                                  "meters",
+                                  "feet"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "weight",
+                              "synonyms": [
+                                  "pounds",
+                                  "kilograms",
+                                  "ounces"
+                              ]
+                          }
+                      }
+                  ]
+              }

@@ -1,0 +1,7 @@
+{
+                          "name": "article",
+                          "type": "articleType",
+                          "confirmationRequired": false,
+                          "elicitationRequired": false,
+                          "prompts": {}
+                      }

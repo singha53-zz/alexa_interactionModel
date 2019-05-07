@@ -1,0 +1,9 @@
+{
+              "id": "Elicit.Intent-PetMatchIntent.IntentSlot-energy",
+              "variations": [
+                  {
+                      "type": "PlainText",
+                      "value": "Do you prefer high energy or low energy dogs?"
+                  }
+              ]
+          }

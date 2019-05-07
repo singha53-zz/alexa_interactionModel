@@ -1,0 +1,7 @@
+{
+                          "name": "shedding",
+                          "type": "sheddingType",
+                          "confirmationRequired": false,
+                          "elicitationRequired": false,
+                          "prompts": {}
+                      }

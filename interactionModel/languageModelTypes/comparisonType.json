@@ -1,0 +1,25 @@
+{
+                  "name": "comparisonType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "greater than",
+                              "synonyms": [
+                                  "more",
+                                  "more than",
+                                  "over"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "less than",
+                              "synonyms": [
+                                  "less",
+                                  "under",
+                                  "shorter than"
+                              ]
+                          }
+                      }
+                  ]
+              }

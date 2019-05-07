@@ -1,0 +1,13 @@
+{
+              "id": "Elicit.Intent-PetMatchIntent.IntentSlot-size",
+              "variations": [
+                  {
+                      "type": "PlainText",
+                      "value": "There are dogs that are tiny, small, medium, and large. Which would you like?"
+                  },
+                  {
+                      "type": "PlainText",
+                      "value": "What size of a dog would you like?"
+                  }
+              ]
+          }

@@ -1,0 +1,41 @@
+{
+                  "name": "energyType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "low",
+                              "synonyms": [
+                                  "to cuddle with",
+                                  "to watch netflix with",
+                                  "lazy"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "medium",
+                              "synonyms": [
+                                  "for my apartment",
+                                  "fun to play with",
+                                  "tug of war",
+                                  "plays tug of war"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "high",
+                              "synonyms": [
+                                  "that I can run with",
+                                  "play frisbee",
+                                  "run",
+                                  "hike",
+                                  "go hiking",
+                                  "play fetch",
+                                  "energetic",
+                                  "high energy"
+                              ]
+                          }
+                      }
+                  ]
+              }

@@ -1,0 +1,54 @@
+{
+                  "name": "sizeType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "large",
+                              "synonyms": [
+                                  "huge",
+                                  "truck",
+                                  "gigantic",
+                                  "eat me out of house",
+                                  "scary big",
+                                  "ginormous",
+                                  "ride",
+                                  "waist height"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "medium",
+                              "synonyms": [
+                                  "bigger than a cat",
+                                  "on the bed",
+                                  "up to my knees",
+                                  "average"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "small",
+                              "synonyms": [
+                                  "little",
+                                  "take on an airplane"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "tiny",
+                              "synonyms": [
+                                  "cheap to feed",
+                                  "teacup",
+                                  "pocket",
+                                  "yippy",
+                                  "carry in my purse",
+                                  "put in my pocket",
+                                  "itty bitty"
+                              ]
+                          }
+                      }
+                  ]
+              }

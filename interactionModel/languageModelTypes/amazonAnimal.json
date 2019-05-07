@@ -1,0 +1,15 @@
+{
+                  "name": "AMAZON.Animal",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "mythical_creatures",
+                              "synonyms": [
+                                  "unicorn",
+                                  "chimera",
+                                  "dragon"
+                              ]
+                          }
+                      }
+                  ]
+              }

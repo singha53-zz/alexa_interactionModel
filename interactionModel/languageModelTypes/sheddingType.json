@@ -1,0 +1,31 @@
+{
+                  "name": "sheddingType",
+                  "values": [
+                      {
+                          "name": {
+                              "value": "no",
+                              "synonyms": [
+                                  "hypoallergenic"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "low",
+                              "synonyms": [
+                                  "groom"
+                              ]
+                          }
+                      },
+                      {
+                          "name": {
+                              "value": "high",
+                              "synonyms": [
+                                  "no hair cutting",
+                                  "mouth full of hair",
+                                  "long hair"
+                              ]
+                          }
+                      }
+                  ]
+              }
