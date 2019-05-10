@@ -26,7 +26,7 @@ const languageModelTypes = enUS.interactionModel.languageModel.types.map(functio
     console.log(j.name.value)
       return {"name": j.name.value}
     })},
-    {"name": "synonyms", "children": i.values.map(function(j){
+    {"name": "synonyms", "children": !isEmpty(i.values.synonyms) ? [] : i.values.map(function(j){
       return {"name": JSON.stringify(j.name.synonyms) }
     })}
     ]}
